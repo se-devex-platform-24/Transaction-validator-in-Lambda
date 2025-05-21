@@ -8,9 +8,9 @@ fields:
   tier: 4
   isMonorepoProject: false
 links:
-  - name: Transaction validator in Lambda
-    type: REPOSITORY
-    url: 'https://github.com/se-devex-platform-24/Transaction-validator-in-Lambda'
+#  - name: Transaction validator in Lambda
+#    type: REPOSITORY
+#    url: 'https://github.com/se-devex-platform-24/Transaction-validator-in-Lambda'
   - name: How to use Lambda Function URL
     type: DOCUMENT
     url: https://dev.to/iamsherif/how-to-validate-requests-when-using-aws-lambda-function-url-5d72
